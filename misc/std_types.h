@@ -31,7 +31,7 @@ typedef bool            boolean;        /*  boolean type, value is true or false
 #endif
 
 /* use to define is the function/feature On or Off */
-#define STD_ON  (01u) /* function/feature ON */
-#define STD_OFF (00u) /* function/feature OFF */
+#define STD_ON  (1u) /* function/feature ON */
+#define STD_OFF (0u) /* function/feature OFF */
 
 
